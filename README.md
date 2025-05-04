@@ -8,9 +8,9 @@ Das wäre die korrekte Eingabe.
 
 Dies kann man beliebig oft pro Fach machen.  
 Die Minuspunkte nach dem IMS-System wurden auch implementiert.  
-Das bedeutet, die Anwendung weiß, dass man keine Pluspunkte, aber Minuspunkte haben kann, und berechnet dies automatisch.
+Das bedeutet, die Anwendung weiss, dass man keine Pluspunkte, aber Minuspunkte haben kann, und berechnet dies automatisch.
 
 Wenn man am Schluss alle Noten eingegeben hat, gibt die Anwendung die Ergebnisse mit dem Gesamtdurchschnitt und der Anzahl Minuspunkte aus.  
 Danach trifft man auf die Frage, ob man das Ergebnis als PDF exportieren will.  
 Wenn ja, wird es auf dem Desktop gespeichert, und wenn nicht, sieht man es in der Konsolenanwendung.  
-Man kann dann entweder einen neuen Durchschnitt berechnen oder das Programm schließen.
+Man kann dann entweder einen neuen Durchschnitt berechnen oder das Programm schliessen.
